@@ -1,0 +1,40 @@
+# Outputs and model checkpoints
+outputs/
+*.pt
+*.bin
+*.safetensors
+
+# Experiment tracking
+wandb/
+
+# Python and environment
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+env/
+.agents/
+graphify-out/
+skills-lock.json
+__pycache__/
+.ipynb_checkpoints/
+
+# Cache directories
+.cache/
+.coverage
+
+# Temporary extraction files
+temp_spec.docx
+copied_spec.docx
+extracted_spec*.txt
+
+# Local credentials and environment files
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db

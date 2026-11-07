@@ -1,0 +1,9 @@
+{
+  "n": 300,
+  "accuracy": 0.6233333333333333,
+  "lenient_accuracy": 0.67,
+  "format_rate": 0.86,
+  "acc_given_format": 0.6821705426356589,
+  "mean_chars": 688.78,
+  "mean_tokens": 211.26333333333332
+}

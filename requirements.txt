@@ -1,0 +1,11 @@
+# Pin exact versions after your first working run (pip freeze | grep -iE ...).
+torch
+transformers
+trl
+peft
+datasets
+accelerate
+pyyaml
+wandb
+pytest
+bitsandbytes   # optional: adamw_8bit
